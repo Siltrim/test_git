@@ -8,6 +8,7 @@ export default function Home() {
           <div>Commit 2</div>
           <h1>Merge</h1>
           <h2>Merge2</h2>
+          test
 
       </>
 
